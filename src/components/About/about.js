@@ -149,13 +149,13 @@ const About = () => {
         </div>
 
         <div className="about-section">
-  <h2>🌍 Career Goals</h2>
-  <p>
-    <strong>Short-Term Goal:</strong> My short-term goal is to explore better opportunities in the tech industry that allow me to enhance my skills, gain hands-on experience, and contribute to impactful software projects.
-  </p>
-  <p>
-    <strong>Long-Term Goal:</strong> My long-term goal is to become a successful Software Developer by building impactful digital products and continuously advancing both technically and professionally in the software development industry.
-  </p>
+           <h2>🌍 Career Goals</h2>
+           <p>
+              <strong>Short-Term Goal:</strong> My short-term goal is to explore better opportunities in the tech industry that allow me to enhance my skills, gain hands-on experience, and contribute to impactful software projects.
+          </p>
+         <p>
+          <strong>Long-Term Goal:</strong> My long-term goal is to become a successful Software Developer by building impactful digital products and continuously advancing both technically and professionally in the software development industry.
+        </p>
 </div>
 
 
