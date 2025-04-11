@@ -9,14 +9,17 @@ const About = () => {
         <p className="tagline">Full Stack Developer | Passionate Coder | Lifelong Learner</p>
 
         <div className="about-section">
-          <h2>👋 Introduction</h2>
-          <p>
-            I'm <strong>Surendra Chinthakinda</strong>,a recent graduate with a B.Com in Computer Applications.I completed a Java Full Stack Development course from NxtWave.
-            I’ve worked on projects like an HRMS system and a Todo List app using React.js and Spring Boot. Skilled in HTML, CSS, JavaScript, Java, Spring Boot, React.js, SQL, and Python.
-            I enjoy coding, solving real-world problems, and exploring new technologies.
-            My hobbies include tech blogging, stock market analysis, and learning through online courses. My goal is to become a successful Software Engineer.
-          </p>
-        </div>
+  <h2>👋 Introduction</h2>
+  <p>
+    I'm <strong>Surendra Chinthakinda</strong>, a passionate and driven recent graduate with a Bachelor's degree in Commerce and Computer Applications. I have completed a comprehensive Java Full Stack Development program from NxtWave, where I gained hands-on experience in building java-full-stack.
+    <br /><br />
+    My technical skill set includes <strong>HTML, CSS, JavaScript, React.js, Java, Spring Boot, SQL, and Python</strong>. I’ve built and deployed several real-world projects, including a <strong>Human Resource Management System (HRMS)</strong>, a <strong>Food Delivery Web App</strong>, a <strong>To-Do List Application</strong>, and my own <strong>Portfolio Website</strong> to showcase my skills and experience.
+    <br /><br />
+    I’m passionate about coding, solving real-world challenges, and constantly exploring new technologies. Outside of tech, I enjoy tech blogging, stock market analysis, and learning through online courses. My goal is to become a successful <strong>Software Engineer</strong> and contribute to impactful projects in the tech industry.
+  </p>
+</div>
+
+
 
         <div className="about-section">
           <h2>🎓 Education</h2>
@@ -41,7 +44,7 @@ const About = () => {
             </li>
             <li>
               <a href="https://school-in-india.daa-taa.com/school/z-phs-chandragudem-29795" target="_blank" rel="noopener noreferrer">
-                SSC X Z.P.H School Chandragudem(2018–2020)
+                SSC X Z.P.H School Chandragudem(2017–2018)
               </a>
               <p>CGPA <span>7.5/10</span></p>
             </li>
@@ -153,10 +156,10 @@ const About = () => {
            <p>
               <strong>Short-Term Goal:</strong> My short-term goal is to explore better opportunities in the tech industry that allow me to enhance my skills, gain hands-on experience, and contribute to impactful software projects.
           </p>
-         <p>
-          <strong>Long-Term Goal:</strong> My long-term goal is to become a successful Software Developer by building impactful digital products and continuously advancing both technically and professionally in the software development industry.
-        </p>
-</div>
+          <p>
+            <strong>Long-Term Goal:</strong> My long-term goal is to become a successful Software Developer by building impactful digital products and continuously advancing both technically and professionally in the software development industry.
+          </p>
+        </div>
 
 
       </div>
