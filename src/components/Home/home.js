@@ -21,11 +21,11 @@ const Home = () => {
         <h1>
           Hi, I'm <span className="highlight">Surendra Chinthakinda</span>
         </h1>
-        <h2>Java Full Stack Developer</h2>
+        <h2>Java Full Stack Developer | MSc Cyber Security with Management</h2>
         <p>
-          I’m Surendra, an aspiring Full Stack Developer skilled in HTML, CSS, SQL, Java, Spring Boot,
-          JavaScript, React.js, and more. I create clean, responsive, and dynamic web applications with strong
-          backend logic and seamless user interfaces.
+          I’m Surendra, a passionate Full Stack Developer skilled in HTML, CSS, SQL, Java, Spring Boot,
+          JavaScript, React.js, and more. I'm currently pursuing a Master's in Cyber Security with Management 
+          from Ravensbourne University London. I develop secure, responsive, and scalable web applications with strong backend logic and user-friendly interfaces.
         </p>
         <div className="buttons">
           <button className="btn primary" onClick={handleHireClick}>Hire Me</button>

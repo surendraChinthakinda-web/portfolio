@@ -8,6 +8,13 @@ const Education = () => {
       <div className="edu-container">
 
         <div className="edu-card">
+          <h2>MSc in Cyber Security with Management</h2>
+          <p><strong>University:</strong> Ravensbourne University London</p>
+          <p><strong>Duration:</strong> 2025 – Present</p>
+          <p>Focusing on advanced cybersecurity principles, risk management, cyber law, network defense, and security operations. Developing leadership and management skills in cybersecurity contexts.</p>
+        </div>
+
+        <div className="edu-card">
           <h2>Java Full Stack Developer Program</h2>
           <p><strong>Institution:</strong> NxtWave</p>
           <p><strong>CGPA:</strong> 9.5 / 10</p>

@@ -8,48 +8,54 @@ const About = () => {
         <h1>About Me</h1>
         <p className="tagline">Full Stack Developer | Passionate Coder | Lifelong Learner</p>
 
-        <div className="about-section">
+  <div className="about-section">
   <h2>👋 Introduction</h2>
   <p>
-    I'm <strong>Surendra Chinthakinda</strong>, a passionate and driven recent graduate with a Bachelor's degree in Commerce and Computer Applications. I have completed a comprehensive Java Full Stack Development program from NxtWave, where I gained hands-on experience in building java-full-stack.
+    I'm <strong>Surendra Chinthakinda</strong>, an enthusiastic and results-driven tech professional currently pursuing an <strong>MSc in Cyber Security with Management</strong> at <strong>Ravensbourne University London</strong>. I hold a Bachelor's degree in Commerce and Computer Applications, and I have completed an intensive <strong>Java Full Stack Development</strong> program from NxtWave.
     <br /><br />
-    My technical skill set includes <strong>HTML, CSS, JavaScript, React.js, Java, Spring Boot, SQL, and Python</strong>. I’ve built and deployed several real-world projects, including a <strong>Human Resource Management System (HRMS)</strong>, a <strong>Food Delivery Web App</strong>, a <strong>To-Do List Application</strong>, and my own <strong>Portfolio Website</strong> to showcase my skills and experience.
+    I have a strong foundation in <strong>HTML, CSS, JavaScript, React.js, Java, Spring Boot, SQL, and Python</strong>, and I’ve applied these technologies in several real-world projects including a <strong>Human Resource Management System (HRMS)</strong>, a <strong>Food Delivery Web App</strong>, a <strong>To-Do List Application</strong>, and my personal <strong>Portfolio Website</strong>.
     <br /><br />
-    I’m passionate about coding, solving real-world challenges, and constantly exploring new technologies. Outside of tech, I enjoy tech blogging, stock market analysis, and learning through online courses. My goal is to become a successful <strong>Software Engineer</strong> and contribute to impactful projects in the tech industry.
+    I am deeply passionate about software development, cybersecurity, and using technology to solve real-world problems. I enjoy continuous learning through hands-on experience, tech blogs, online courses, and exploring emerging trends. My goal is to become a skilled <strong>Software Engineer</strong> and contribute to meaningful, high-impact projects in the tech industry.
   </p>
 </div>
 
 
 
-        <div className="about-section">
-          <h2>🎓 Education</h2>
-          <ul>
-          <li>
-              <a href="https://www.ccbp.in/" target="_blank" rel="noopener noreferrer">
-                Java Full Stack Developer from NXTWAVE  (2024- 2025)
-              </a>
-              <p>CGPA <span>8.32/10</span></p>
-            </li>
-            <li>
-              <a href="https://kru.ac.in/" target="_blank" rel="noopener noreferrer">
-                B.Com with Computer Applications from SRI SRINIVASA INSTITUTE – Krishna University (2021–2024)
-              </a>
-              <p>CGPA <span>8.32/10</span></p>
-            </li>
-            <li>
-              <a href="https://iti.directory/eluru/govt-industrial-training-institute-nuzvid" target="_blank" rel="noopener noreferrer">
-                ITI – Electronic Mechanic from GOVT I.T.I Nuzvidu (2018–2020)
-              </a>
-              <p>MARKS <span>1287/1400</span></p>
-            </li>
-            <li>
-              <a href="https://school-in-india.daa-taa.com/school/z-phs-chandragudem-29795" target="_blank" rel="noopener noreferrer">
-                SSC X Z.P.H School Chandragudem(2017–2018)
-              </a>
-              <p>CGPA <span>7.5/10</span></p>
-            </li>
-          </ul>
-        </div>
+<div className="about-section">
+  <h2>🎓 Education</h2>
+  <ul>
+    <li>
+      <a href="https://www.ravensbourne.ac.uk/" target="_blank" rel="noopener noreferrer">
+        MSc Cyber Security with Management – Ravensbourne University London (2025–Present)
+      </a>
+      <p>Status: <span>Pursuing</span></p>
+    </li>
+    <li>
+      <a href="https://www.ccbp.in/" target="_blank" rel="noopener noreferrer">
+        Java Full Stack Developer from NXTWAVE  (2024–2025)
+      </a>
+      <p>CGPA <span>8.32/10</span></p>
+    </li>
+    <li>
+      <a href="https://kru.ac.in/" target="_blank" rel="noopener noreferrer">
+        B.Com with Computer Applications from SRI SRINIVASA INSTITUTE – Krishna University (2021–2024)
+      </a>
+      <p>CGPA <span>8.32/10</span></p>
+    </li>
+    <li>
+      <a href="https://iti.directory/eluru/govt-industrial-training-institute-nuzvid" target="_blank" rel="noopener noreferrer">
+        ITI – Electronic Mechanic from GOVT I.T.I Nuzvidu (2018–2020)
+      </a>
+      <p>MARKS <span>1287/1400</span></p>
+    </li>
+    <li>
+      <a href="https://school-in-india.daa-taa.com/school/z-phs-chandragudem-29795" target="_blank" rel="noopener noreferrer">
+        SSC X Z.P.H School Chandragudem (2017–2018)
+      </a>
+      <p>CGPA <span>7.5/10</span></p>
+    </li>
+  </ul>
+</div>
 
   <div className="about-section">
   <h2>💼 Experience</h2>
